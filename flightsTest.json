@@ -1,0 +1,23 @@
+[
+    {
+        "from":"Leipzig",
+        "to":"Munich",
+        "date":"08.08.2021",
+        "price":50,
+        "id":1
+    },
+    {
+        "from": "Munich",
+        "to": "Istanbul",
+        "date": "08.08.2021",
+        "price": 250,
+        "id": 2
+    },
+    {
+        "from": "Hamburg",
+        "to": "Munich", 
+        "date": "08.08.2021",
+        "price": 100,
+        "id": 3
+    }
+]
